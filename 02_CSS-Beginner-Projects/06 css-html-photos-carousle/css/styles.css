@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(250, 250, 250);
+    height: 100vh;
+}
+
+.carousle-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 16px rgb(180, 180, 180);
+}
+
+.photos-container {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    width: 40px;
+    height: 40px;
+    margin: 20px 10px 0 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(255, 255, 255), 
+        rgb(247, 247, 247));
+    box-shadow: 0 1px 5px rgb(125, 124, 124),
+        inset 1px 1px 5px white;
+}

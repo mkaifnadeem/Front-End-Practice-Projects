@@ -1,0 +1,35 @@
+body {
+    background-image: url(../image/bdg1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.badge {
+    width: 260px;
+    background-color: rgb(255, 255, 255);
+    margin: 100px auto 100px auto;
+    padding: 15px 25px;
+    text-align: center;
+    font-family:  Helvetica, Arial, sans-serif;
+    color: rgb(40, 39, 39);
+    border-radius: 10px;
+    box-shadow: rgba(17, 0, 255, 0.25) 0 2px 5px -1px, 
+     rgba(0, 0, 0,0.3) 0 1px 3px -1px;
+}
+.badge img {
+    height: 150px;
+    border-radius: 75px;
+}
+
+.badge #email {
+    color: rgb(40, 39, 39);
+}
+
+.badge a {
+    display: inline-block;
+    color: rgb(210, 47, 47);
+    margin: 10px;
+    text-decoration: none;
+}
+.badge #email {
+    color: rgb(40, 39, 39);
+}
