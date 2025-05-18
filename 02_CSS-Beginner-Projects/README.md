@@ -4,6 +4,17 @@ A comprehensive guide and project list to help you master CSS from the basics to
 
 ---
 
+## 📁 Projects Overview
+
+| Project Folder                | Concepts Used                                                                   |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| `profile-badge-card`          | Flexbox, Box Model, Border Radius, Shadows, Typography, Responsive Layout       |
+| `responsive-burger-menu-page` | Flexbox, Responsive Design, Positioning, Backgrounds, Typography, Hover Effects |
+| `image-carousel-gallery`      | Flexbox, Positioning, Overflow, Transitions, Responsive Images, Buttons         |
+| `modern-signup-form`          | Flexbox, Form Styling, Shadows, Responsive Design, Button Styles, Typography    |
+
+---
+
 ## 1. Basics of CSS (Cascading Style Sheets)
 
 -   **Introduction to CSS:** What is CSS and why is it important?
@@ -16,7 +27,7 @@ A comprehensive guide and project list to help you master CSS from the basics to
 
 ## 2. Styling With CSS
 
--   **Colors:** Using color names, RGB, HEX, HSL, RGBA, HSLA.
+-   **Colors:** Using color names, `RGB, HEX, HSL, RGBA, HSLA`.
 -   **CSS Units:** %, px, rem, em, vw, vh, min, max.
 -   **Borders:** Border styles, width, color, and radius.
 -   **Box Model:** margin, padding, box-sizing, height, width.
